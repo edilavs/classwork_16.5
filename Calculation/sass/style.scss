@@ -1,0 +1,26 @@
+.labels {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.operations {
+    background-color: darkgray;
+    display: flex;
+    .sum-op {
+        justify-content: space-between;
+        border: 2px solid orange;
+    }
+    .diff-op {
+        justify-content: space-between;
+        border: 2px solid orange;
+    }
+    .muliply-op {
+        justify-content: space-between;
+        border: 2px solid orange;
+    }
+    .devide-op {
+        justify-content: space-between;
+        border: 2px solid orange;
+    }
+}

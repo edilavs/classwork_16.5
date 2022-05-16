@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(179, 190, 190);
+    position: relative;
+}
+
+.circle {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(240, 169, 82);
+    position: absolute;
+}

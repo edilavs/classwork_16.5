@@ -1,0 +1,41 @@
+.labels {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.operations {
+  background-color: darkgray;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.operations .sum-op {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: 2px solid orange;
+}
+
+.operations .diff-op {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: 2px solid orange;
+}
+
+.operations .muliply-op {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: 2px solid orange;
+}
+
+.operations .devide-op {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: 2px solid orange;
+}
+/*# sourceMappingURL=style.css.map */

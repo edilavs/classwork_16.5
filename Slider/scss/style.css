@@ -1,0 +1,45 @@
+.slider {
+  position: relative;
+}
+
+.images {
+  width: 1100px;
+  height: 500px;
+}
+
+.images .workbench {
+  position: absolute;
+}
+
+.images .sound {
+  position: absolute;
+}
+
+.images .coffee {
+  position: absolute;
+}
+
+.btn-left {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: #a5a5a5;
+  text-align: center;
+  padding: 15px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+}
+
+.btn-right {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: #a5a5a5;
+  text-align: center;
+  padding: 15px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+/*# sourceMappingURL=style.css.map */
